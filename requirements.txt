@@ -1,0 +1,16 @@
+# Core libraries
+pandas
+requests
+
+# For getting YouTube images with web scraping
+asyncio
+playwright
+
+# For image captioning
+torch
+torchvision
+transformers
+accelerate
+pillow
+
+# TODO: call pip freeze > requirements.txt
